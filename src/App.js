@@ -8,7 +8,7 @@ import {
 // import {huhu} from 'huhu';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Signin from './components/Signin/Signin';
+import Signin from './components/Auth/Signin';
 import Main from './components/Main/Main';
 
 function App() {
